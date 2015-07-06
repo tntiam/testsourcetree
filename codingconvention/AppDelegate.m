@@ -9,7 +9,7 @@
 #import "AppDelegate.h"
 
 @interface AppDelegate ()
-
+//@property (strong, nonatomic)
 @end
 
 @implementation AppDelegate
